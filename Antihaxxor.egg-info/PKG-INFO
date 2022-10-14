@@ -5,6 +5,8 @@ Summary: Security Library
 Home-page: https://github.com/maracuja/antihaxxor
 Author: David-George Hamilton
 Author-email: david@setr.co.uk
+License: UNKNOWN
+Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent

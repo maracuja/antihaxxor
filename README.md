@@ -5,7 +5,7 @@ Provides all sorts of amazing security features. Currently masks password charac
 ###  Install
 
 ```
-$ pip install antihaxxor  
+$ pip install antihaxxor
 ```
 
 ### Usage
